@@ -4,4 +4,5 @@ This is the final data science project for the "Applied Data Science Program" (M
 
 The objective was to correctly identify parasitized cell images and uninfected cell images.<br>
 The final model (a fine-tuned model of EfficientNetV2B3) has shown a high accuracy (98%) and a high F1 score (98%).<br>
-Check the notebook for details.
+Check the notebook and/or the slides for details.
+
