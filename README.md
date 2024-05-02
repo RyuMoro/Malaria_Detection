@@ -1,6 +1,7 @@
 # Malaria_Detection
 
 This is the final data science project for the "Applied Data Science Program" (MIT Professional Education).
+A **binary image classification problem**.
 
 The objective was to correctly identify parasitized cell images and uninfected cell images.<br>
 The final model (a fine-tuned model of EfficientNetV2B3) has shown a high accuracy (98%) and a high F1 score (98%).<br>
